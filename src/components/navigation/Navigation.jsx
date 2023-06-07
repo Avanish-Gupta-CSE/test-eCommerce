@@ -17,7 +17,7 @@ export const Navigation = () => {
             <div className="nav-bar desktop">
                 <NavLink className={"heading-link"} to={"/"}>
                     <strong>
-                        <FaShoePrints /> Shoes Mart
+                        <FaShoePrints /> Super-Kicks
                     </strong>
                 </NavLink>
                 <input
