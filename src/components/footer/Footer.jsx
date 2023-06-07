@@ -18,7 +18,7 @@ export const Footer = () => {
                 </Link>
                 <Link
                     to={
-                        "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=aayushbatra33@gamil.com"
+                        "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlDSvZZfTwPZQWvVjDGrSxzsdCXBGBPBzBCQSdMwpgkfcNRWwQmgBKmRXjKFwFsZtnGGRL"
                     }
                     target="blank"
                 >
