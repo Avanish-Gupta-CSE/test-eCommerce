@@ -7,7 +7,7 @@ import { AiFillGithub } from "react-icons/ai";
 export const Footer = () => {
     return (
         <div className="footer">
-            <strong>Shoes Mart</strong>
+            <strong>Super-Kicks</strong>
             <div>&#169; &nbsp;&nbsp;&nbsp; Developed By Avanish Gupta</div>
             <div className="social-media">
                 <Link
