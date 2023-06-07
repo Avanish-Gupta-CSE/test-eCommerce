@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import "./navigation.css";
 import { useDataContext } from "../../contexts/DataProvider";
 import { useLoginContext } from "../../contexts/LoginProvider";
-import { FaShoePrints } from "react-icons/fa";
+import { TbShoe } from "react-icons/fa";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { AiOutlineHeart } from "react-icons/ai";
 import { useCartContext } from "../../contexts/CartProvider";
@@ -17,7 +17,7 @@ export const Navigation = () => {
             <div className="nav-bar desktop">
                 <NavLink className={"heading-link"} to={"/"}>
                     <strong>
-                        <FaShoePrints /> Shoes Mart
+                        <TbShoe /> Super-Kicks
                     </strong>
                 </NavLink>
                 <input
@@ -74,7 +74,7 @@ export const Navigation = () => {
                     <div className="links">
                         <NavLink className={"heading-link"} to={"/"}>
                             <strong>
-                                <FaShoePrints />
+                                <TbShoe />
                             </strong>
                         </NavLink>
                         <NavLink
