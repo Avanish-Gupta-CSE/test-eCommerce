@@ -1,11 +1,15 @@
 .cart-container {
     margin-left: 1rem;
     padding-bottom: 6rem;
+
 }
 
 .cart {
     display: flex;
     padding-bottom: 2.5rem;
+    background-color: #FAEDCD;
+
+
 }
 
 .cart .heading {
