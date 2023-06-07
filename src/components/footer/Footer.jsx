@@ -8,10 +8,10 @@ export const Footer = () => {
     return (
         <div className="footer">
             <strong>Shoes Mart</strong>
-            <div>&#169; Developed By Aayush Batra</div>
+            <div>&#169; &nbsp;&nbsp;&nbsp; Developed By Avanish Gupta</div>
             <div className="social-media">
                 <Link
-                    to={"https://www.linkedin.com/in/aayush-batra-475ab9201/"}
+                    to={"https://www.linkedin.com/in/avanish-gupta-aa26341ba/"}
                     target="_blank"
                 >
                     <AiOutlineLinkedin />
@@ -24,7 +24,7 @@ export const Footer = () => {
                 >
                     <CgMail />
                 </Link>
-                <Link to={"https://github.com/BatraAayush"} target="_blank">
+                <Link to={"https://github.com/Avanish-Gupta-CSE"} target="_blank">
                     <AiFillGithub />
                 </Link>
             </div>
